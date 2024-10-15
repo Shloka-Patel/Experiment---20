@@ -7,6 +7,14 @@ To study and implement Sorting Algortithm in C++ <ol><li>Selection Sort</li> <li
 Visual Studio Code 
 
 ### Theory 
+<b> (1) Selection Sort </b> <br> 
+<ul><li>Finds the minimum element in the unsorted array.</li> <li>Swaps it with the elementt at the beginning.</li> <li>Repeats the process for the rest of the unsorted array.</li></ul> 
+
+<b>(2) Insertion Sort</b> <br> 
+<ul><li>Starts from the second element, and compare it with previous elements.</li> <li>Moves larger elements one position to the right to make space for the current element.</li> <li>Insert the current element in its correct position.</li></ul>
+
+<b> (3) Bubble Sort </b> <br> 
+<ul><li>Repeatedly compares adjacent elements.</li> <li>Swap them if they are in the wrong order.</li> <li>The largest (or smallest) element "bubbles up" to its correct position.</li></ul> 
 
 ### Code 
 (A) 
@@ -177,4 +185,7 @@ int main() {
 ![](https://github.com/Shloka-Patel/Experiment---20/blob/main/Output_20C.png) 
 
 ### Conclusion 
+<ul><li><b>Selection Sort:</b> Selects the smallest element and swaps it; siple but inefficient for large arrays.</li><br> 
+<li><b>Insertion Sort:</b> Efficient for small or nearly sorted arrays; it inserts elements in their correct position.</li><br> 
+<li><b>Bubble Sort:</b> Repeatedly swaps adjacentn elements; easy to understand but inefficient for large datasets.</li> <br> 
 

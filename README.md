@@ -174,7 +174,7 @@ int main() {
 ![](https://github.com/Shloka-Patel/Experiment---20/blob/main/Output_20B.png) 
 
 (C) 
-![]() 
+![](https://github.com/Shloka-Patel/Experiment---20/blob/main/Output_20C.png) 
 
 ### Conclusion 
 

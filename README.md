@@ -8,7 +8,7 @@ Visual Studio Code
 
 ### Theory 
 <b> (1) Selection Sort </b> <br> 
-<ul><li>Finds the minimum element in the unsorted array.</li> <li>Swaps it with the elementt at the beginning.</li> <li>Repeats the process for the rest of the unsorted array.</li></ul> 
+<ul><li>Finds the minimum element in the unsorted array.</li> <li>Swaps it with the element at the beginning.</li> <li>Repeats the process for the rest of the unsorted array.</li></ul> 
 
 <b>(2) Insertion Sort</b> <br> 
 <ul><li>Starts from the second element, and compare it with previous elements.</li> <li>Moves larger elements one position to the right to make space for the current element.</li> <li>Insert the current element in its correct position.</li></ul>
